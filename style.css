@@ -111,10 +111,21 @@ h2 {
     padding-bottom: 5px;
 }
 
-p {
+h3 {
     font-size: 13pt;
     font-weight: 350;
 }
+
+p{ 
+    font-size: 10pt;
+    font-weight: 200;
+    font-style: italic;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin-right: 15px;
+}
+
 
 .interactions {
     list-style-type: none;
